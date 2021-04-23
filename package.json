@@ -1,5 +1,5 @@
 {
-  "name": "oauth-passport-base",
+  "name": "oauth-passport-base-app",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,6 +10,9 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-handlebars": "3.1.0",
-    "nodemon": "^1.19.4"
+    "express-session": "1.17.0",
+    "nodemon": "^1.19.4",
+    "passport": "0.4.0",
+    "passport-google-oauth20": "2.0.0"
   }
 }
